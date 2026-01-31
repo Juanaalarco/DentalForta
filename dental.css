@@ -1203,7 +1203,7 @@ h4 { font-size: 1.3rem; }
     
     .menu-toggle {
         display: block;
-        color: rgb(0, 0, 0);
+        color: black;
         font-size: 24px;
         cursor: pointer;
     }
@@ -1213,7 +1213,7 @@ h4 { font-size: 1.3rem; }
         top: 70px;
         left: 0;
         width: 100%;
-        background-color: rgb(31, 177, 169);
+        background-color: turquoise;
         flex-direction: column;
         box-shadow: var(--shadow-lg);
         max-height: 0;
@@ -1325,3 +1325,4 @@ h4 { font-size: 1.3rem; }
     }
 
 }
+
